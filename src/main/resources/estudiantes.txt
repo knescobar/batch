@@ -1,0 +1,5 @@
+cedula,apellidos,nombres,nivel
+172275078,Escobar, Nicole, 1
+172275034,Escobar, Narcisa, 2
+172275056,Escobar, Odalys, 3
+172275043,Escobar, Karla, 4
